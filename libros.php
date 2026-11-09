@@ -57,6 +57,7 @@ if ($busqueda !== "") {
         display: block;
         margin-top: 10px;
     }
+</style>
 <body>
 
 <h1>Open Library</h1>
