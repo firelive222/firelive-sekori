@@ -37,6 +37,28 @@ if ($resultado["ok"]) {
     <meta charset="UTF-8">
     <title>Perros por raza</title>
 </head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+    h1 {
+        color: #333;
+    }
+    form {
+        margin-bottom: 20px;
+    }
+    input[type="text"] {
+        padding: 5px;
+        width: 300px;
+    }
+    button {
+        padding: 5px 10px;
+    }
+    img {
+        display: block;
+        margin-top: 10px;
+    }
 <body>
 
 <h1>RAZAS DE PERROS</h1>
